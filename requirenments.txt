@@ -1,0 +1,10 @@
+exceptiongroup==1.1.1
+iniconfig==2.0.0
+packaging==23.1
+pluggy==1.0.0
+py==1.11.0
+pymssql==2.2.7
+pytest==7.3.1
+pytest-html==3.2.0
+pytest-metadata==2.0.4
+tomli==2.0.1
