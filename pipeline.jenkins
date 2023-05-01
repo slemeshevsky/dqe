@@ -3,6 +3,7 @@ pipeline {
       stages {
          stage('Build') {
             steps {
+               sh 'python3 -m ensurepip --upgrade'
                sh 'python3 -m pip install -r requirenments.txt'
             }
          }
